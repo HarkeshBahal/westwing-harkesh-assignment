@@ -19,3 +19,5 @@ Automation Framework for Westwing website
   ## Report
   1. After tests "allure-results" folder will be generated, which will contain test results.
   2. To view test reports navigate to root directory of repository and run command "allure generate -c allure-results/ && allure open"**
+  
+  <img width="1562" alt="Screenshot 2021-01-31 at 22 32 07" src="https://user-images.githubusercontent.com/19331500/106400095-539f3b80-6414-11eb-99bd-22c08d660029.png">
